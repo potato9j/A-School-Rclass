@@ -1,8 +1,8 @@
-# RS-Inter.-save-Folder
-University's window coding-Everyone's R executable upload folder. / PRIVATE folder
+### RS-Inter.-save-Folder
+University's window coding-Everyone's R executable upload folder. / PRIVATE folder / by potato9j
 
 
-## <R code 업로드 후, 다시 다운로드 받아야 할 경우 안내>
+### [Github업로드파일을 .R로 다운받는 방법]
 
 ### 파일 하나씩 다운받기
 ###### 1-1. 파일 링크 안으로 들어가면 코드가 보임. 
