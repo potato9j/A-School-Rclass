@@ -2,28 +2,28 @@ summary(iris)
 View(iris)
 
 
-if(Á¶°Ç½Ä){
+if(ì¡°ê±´ì‹){
   
 } else{
   
 }
 
 
-menu <- "Â¥Àå"
-if(menu=="Â¥Àå"){
-  print("Â¥Àå¸é Ãß°¡")
+menu <- "ì§œì¥"
+if(menu=="ì§œì¥"){
+  print("ì§œì¥ë©´ ì¶”ê°€")
 } else{
-  print("Â«»Í Ãß°¡")
+  print("ì§¬ë½• ì¶”ê°€")
 }
 
 
-menu <- "ººÀ½¹ä"
-if(menu=="Â¥Àå"){
-  print("Â¥Àå¸é Ãß°¡")
-} else if(menu=="Â«»Í"){
-  print("Â«»Í Ãß°¡")
+menu <- "ë³¶ìŒë°¥"
+if(menu=="ì§œì¥"){
+  print("ì§œì¥ë©´ ì¶”ê°€")
+} else if(menu=="ì§¬ë½•"){
+  print("ì§¬ë½• ì¶”ê°€")
 } else {
-  print("ººÀ½¹ä Ãß°¡")
+  print("ë³¶ìŒë°¥ ì¶”ê°€")
 }
 
 
@@ -39,34 +39,34 @@ if(score >= 91){
 
 
 
-for(i in 1:50){
-  print(2*i)
+for(i in 1:50){  
+  print(2*i)  #ì§ìˆ˜ë§Œ ì¶œë ¥
 }
 
 
 for(i in 1:50){
-  print(2*i-1)
+  print(2*i-1)  #í™€ìˆ˜ë§Œ ì¶œë ¥
 }
 
 
-for(i in 1:33){
-  print(3*i)
+for(i in 1:33){  #33ë²ˆ ë°˜ë³µ(33-1+1)
+  print(3*i)  #3ì˜ë°°ìˆ˜ ì¶œë ¥
 }
 
 
-for(i in 1:9){  #9¹ø¹İº¹
-  print(6*i)
+for(i in 1:9){  #9ë²ˆ ë°˜ë³µ(9-1+1) / 
+  print(6*i)  #6ì˜ë°°ìˆ˜ ì¶œë ¥
 }
 
 
-dan<-6
-for(i in 1:9){
+dan<-6  #danì„ 6ìœ¼ë¡œ ì§€ì •
+for(i in 1:9){  
   print(dan*i)
 }
 
 
-for(dan in 2:9){  #±¸±¸´Ü 2´ÜºÎÅÍ 9´Ü Ãâ·Â
-  print("#######")
+for(dan in 2:9){  #êµ¬êµ¬ë‹¨ 2ë‹¨ë¶€í„° 9ë‹¨ ì¶œë ¥
+  print("#######")  #êµ¬êµ¬ë‹¨ ì—´ì„ êµ¬ë¶„
   for(i in 1:9){
     print(dan*i)
   }
