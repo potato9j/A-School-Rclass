@@ -31,8 +31,43 @@ if(menu=="짜장"){
 score <- 78
 if(score >= 91){
   print("A+")  
-} else if(score >= 81){  #elseif
+} else if(score >= 81){  
   print("A0")
-} else if(score >= 71{
+} else if(score >= 71){
   print("B+")
+}
+
+
+
+for(i in 1:50){
+  print(2*i)
+}
+
+
+for(i in 1:50){
+  print(2*i-1)
+}
+
+
+for(i in 1:33){
+  print(3*i)
+}
+
+
+for(i in 1:9){  #9번반복
+  print(6*i)
+}
+
+
+dan<-6
+for(i in 1:9){
+  print(dan*i)
+}
+
+
+for(dan in 2:9){  #구구단 2단부터 9단 출력
+  print("#######")
+  for(i in 1:9){
+    print(dan*i)
+  }
 }
