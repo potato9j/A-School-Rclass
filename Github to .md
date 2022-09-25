@@ -1,6 +1,6 @@
 ### RS-Inter.-save-Folder
-University's window coding-Everyone's R executable upload folder. / PRIVATE folder / by potato9j
 
+<창의코딩-모두의R>과목 Github 저장 폴더
 
 [Github업로드파일을 .R로 다운받는 방법]
 
